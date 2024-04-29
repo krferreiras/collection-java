@@ -19,12 +19,16 @@ public class CarrinhoDeCompras {
 
     public void removerItem(String name){
         List<Item> removeItems = new ArrayList<>();
-        for (Item item : items) {
-            if (item.getName().equalsIgnoreCase(name)){
-                removeItems.add(item);
+        if(!items.isEmpty()){
+            for (Item item : items) {
+                if (item.getName().equalsIgnoreCase(name)){
+                    removeItems.add(item);
+                }
             }
+            items.removeAll(removeItems);
+        }else{
+            System.out.println("Seu carrinho de compras está vazio. Continue Comprando!");
         }
-        items.removeAll(removeItems);
     }
 
     public void calcularValorTotal(){

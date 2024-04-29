@@ -30,7 +30,4 @@ public class Item {
         return name + ", R$ " + price + ", " + quantity;
     }
 
-    public void calcularValorTotal(double price, Integer quantity) {
-        totalValue += (price * quantity);
-    }
 }
