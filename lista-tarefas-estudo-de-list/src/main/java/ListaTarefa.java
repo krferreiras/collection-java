@@ -16,7 +16,7 @@ public class ListaTarefa {
 
     public void removerTarefa(String descricao){
         List<Tarefa> tarefasParaRemover = new ArrayList<>();
-        for (Tarefa tarefa: tarefalist) {
+        for (Tarefa tarefa : tarefalist) {
             if (tarefa.getDescricao().equalsIgnoreCase(descricao)) {
                 tarefasParaRemover.add(tarefa);
             }
