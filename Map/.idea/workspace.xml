@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf763121-31b0-4699-a476-01c92b45a1d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dicionario-OB-map-desafio/src/main/java/Dicionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/agenda-contatos-estudo-pesquisa-set/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/agenda-contatos-estudo-pesquisa-set/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/agenda-contatos-estudo-pesquisa-set/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/agenda-contatos-estudo-pesquisa-set/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/agenda-contatos-estudo-pesquisa-set/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/agenda-contatos-estudo-pesquisa-set/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/agenda-contatos-estudo-pesquisa-set/src/main/java/Agenda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/agenda-contatos-estudo-pesquisa-set/src/main/java/Contato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/cadastro-produtos-estudo-ordenacao-set/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/cadastro-produtos-estudo-ordenacao-set/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/cadastro-produtos-estudo-ordenacao-set/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/cadastro-produtos-estudo-ordenacao-set/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/cadastro-produtos-estudo-ordenacao-set/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/cadastro-produtos-estudo-ordenacao-set/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/cadastro-produtos-estudo-ordenacao-set/src/main/java/CadastroProdutos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/cadastro-produtos-estudo-ordenacao-set/src/main/java/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/conjunto-convidados-estudo-set/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/conjunto-convidados-estudo-set/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/conjunto-convidados-estudo-set/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/conjunto-convidados-estudo-set/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/conjunto-convidados-estudo-set/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/conjunto-convidados-estudo-set/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/conjunto-convidados-estudo-set/src/main/java/ConjuntoConvidados.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/conjunto-convidados-estudo-set/src/main/java/Convidado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/conjunto-palavras-unicas-desafio/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/conjunto-palavras-unicas-desafio/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/conjunto-palavras-unicas-desafio/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/conjunto-palavras-unicas-desafio/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/conjunto-palavras-unicas-desafio/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/conjunto-palavras-unicas-desafio/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/conjunto-palavras-unicas-desafio/src/main/java/ConjutoPalavrasUnicas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/lista-alunos-ordenacao-set-desafio/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/lista-alunos-ordenacao-set-desafio/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/lista-alunos-ordenacao-set-desafio/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/lista-alunos-ordenacao-set-desafio/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/lista-alunos-ordenacao-set-desafio/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/lista-alunos-ordenacao-set-desafio/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/lista-alunos-ordenacao-set-desafio/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/lista-alunos-ordenacao-set-desafio/src/main/java/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/lista-alunos-ordenacao-set-desafio/src/main/java/ListaAlunos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/lista-tarefas-pequisa-set-desafio/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/lista-tarefas-pequisa-set-desafio/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/lista-tarefas-pequisa-set-desafio/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/lista-tarefas-pequisa-set-desafio/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/lista-tarefas-pequisa-set-desafio/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/lista-tarefas-pequisa-set-desafio/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/lista-tarefas-pequisa-set-desafio/src/main/java/ListaTarefas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set/lista-tarefas-pequisa-set-desafio/src/main/java/Tarefa.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2fuVqupyoiCxaSZpAqwtrgA0p0D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Estudo/BOOTCAMP DIO - SANTANDER/collections-java/Map/agenda-contatos-OB-map-estudo"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf763121-31b0-4699-a476-01c92b45a1d4" name="Changes" comment="" />
+      <created>1714651143095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714651143095</updated>
+    </task>
+    <servers />
+  </component>
+</project>
